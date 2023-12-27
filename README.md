@@ -19,3 +19,4 @@ Welcome to the Simple React To-Do List App! This application is designed to help
 If you added a task and you think that it doesn't appear, click the filters first.
 
 
+
