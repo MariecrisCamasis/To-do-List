@@ -1,6 +1,6 @@
-# Simple React To-Do List App
+# To-Do List App
 
-Welcome to the Simple React To-Do List App! This application is designed to help you manage your tasks effortlessly. It provides basic functionalities such as adding, editing, completing, and deleting tasks. Additionally, a search filter is available to make it easy to find specific tasks.
+This application is meant to help you handle your tasks. The program offers essential capabilities, including the ability to create, modify, comlete, and delete tasks. Furthermore, a search filter is provided to make it easy to find specific tasks.
 
 ## Features
 
